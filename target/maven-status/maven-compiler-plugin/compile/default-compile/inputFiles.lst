@@ -1,0 +1,12 @@
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/constants/ChoiceOptionEnum.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/repository/AnswerRepository.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/service/AnswerService.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/model/Question.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/service/AnswerServiceImpl.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/constants/QuestionAnswerConstantText.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/util/QuestionAnswerParser.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/service/QuestionService.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/repository/QuestionRepository.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/model/Answer.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/service/QuestionServiceImpl.java
+/Users/apple/NetBeansProjects/questionanswer/src/main/java/com/mycompany/questionanswer/QuestionAnswerProjectApplication.java

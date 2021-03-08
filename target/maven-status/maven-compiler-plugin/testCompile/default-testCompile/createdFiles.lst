@@ -1,0 +1,4 @@
+com/mycompany/questionanswer/model/QuestionTest.class
+com/mycompany/questionanswer/model/AnswerTest.class
+com/mycompany/questionanswer/QuestionAnswerTests.class
+com/mycompany/questionanswer/service/AnswerServiceImpITest.class

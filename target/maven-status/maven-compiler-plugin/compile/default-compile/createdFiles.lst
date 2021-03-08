@@ -1,0 +1,12 @@
+com/mycompany/questionanswer/model/Answer.class
+com/mycompany/questionanswer/repository/QuestionRepository.class
+com/mycompany/questionanswer/QuestionAnswerProjectApplication.class
+com/mycompany/questionanswer/service/AnswerServiceImpl.class
+com/mycompany/questionanswer/model/Question.class
+com/mycompany/questionanswer/service/QuestionService.class
+com/mycompany/questionanswer/service/AnswerService.class
+com/mycompany/questionanswer/constants/QuestionAnswerConstantText.class
+com/mycompany/questionanswer/service/QuestionServiceImpl.class
+com/mycompany/questionanswer/constants/ChoiceOptionEnum.class
+com/mycompany/questionanswer/repository/AnswerRepository.class
+com/mycompany/questionanswer/util/QuestionAnswerParser.class
