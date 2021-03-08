@@ -1,4 +1,4 @@
-##Question and Answer Project
+Question and Answer Project
 
 It is done by  NetBeans (8.0.2) development environment as a Maven project, with CommandLine. There is not a GUI part of the project, because of this reason user makes choice from command line. For example, user chooses 1 or 2 from console. 
 
